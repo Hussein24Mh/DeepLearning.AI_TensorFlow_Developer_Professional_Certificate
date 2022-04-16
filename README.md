@@ -1,10 +1,10 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
 
-## **Instructor** : [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/)
+### **Instructor** : [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/)
 
 ---
 
-## Assignments
+### Assignments
 
 | ---     | Course 01   | Course 02   | Course 03   | Course 04   |
 |:-------:| ----------- | ----------- | ----------- | ----------- |
