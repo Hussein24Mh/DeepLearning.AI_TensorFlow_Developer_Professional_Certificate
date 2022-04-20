@@ -6,12 +6,12 @@
 
 ### Assignments
 
-| ---     | Course 01                                                                                                                                        | Course 02   | Course 03   | Course 04   |
-|:-------:| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ----------- | ----------- |
-| Weak 01 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W1_Assignment.ipynb) | [Not Yet]() | [Not Yet]() | [Not Yet]() |
-| Weak 02 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W2_Assignment.ipynb) | [Not Yet]() | [Not Yet]() | [Not Yet]() |
-| Weak 03 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W3_Assignment.ipynb) | [Not Yet]() | [Not Yet]() | [Not Yet]() |
-| Weak 04 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W4_Assignment.ipynb) | [Not Yet]() | [Not Yet]() | [Not Yet]() |
+| ---     | Course 01                                                                                                                                        | Course 02                                                                                                                                         | Course 03   | Course 04   |
+|:-------:| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| Weak 01 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W1_Assignment.ipynb) | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_02/C2W1_Assignment.ipynb)  | [Not Yet]() | [Not Yet]() |
+| Weak 02 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W2_Assignment.ipynb) | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_02/C2W2_Assignment.ipynb)  | [Not Yet]() | [Not Yet]() |
+| Weak 03 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W3_Assignment.ipynb) | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_02/C2W3_Assignment.ipynb)  | [Not Yet]() | [Not Yet]() |
+| Weak 04 | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_01/C1W4_Assignment.ipynb) | [Here](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/Course_02/C2W4_Assignment2.ipynb) | [Not Yet]() | [Not Yet]() |
 
 ---
 
@@ -36,6 +36,12 @@
 #### **COURSE** 2
 
 ### Convolutional Neural Networks in TensorFlow
+
+> My Coding Examples
+> 
+> - [Augmentation](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/MyCodingExamples/06_Colab_Augmentation_Cats_Dogs.ipynb)
+
+> - [Transfer Learning](https://github.com/Hussein24Mh/DeepLearning.AI_TensorFlow_Developer_Professional_Certificate/blob/master/MyCodingExamples/07_Colab_Transfer_Learning.ipynb)
 
 ---
 
